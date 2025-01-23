@@ -1,0 +1,1 @@
+Usage: ./porscanner <ip>
