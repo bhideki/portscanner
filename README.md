@@ -1,1 +1,1 @@
-Usage: ./porscanner <ip>
+Usage: ./porscanner <'ip>
